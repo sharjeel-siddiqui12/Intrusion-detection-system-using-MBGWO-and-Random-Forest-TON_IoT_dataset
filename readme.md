@@ -1,6 +1,6 @@
 # Network Intrusion Detection System using MBGWO and Random Forest
 
-![IDS Security Banner](https://via.placeholder.com/800x200?text=Network+Intrusion+Detection+System)
+
 
 ## 📋 Overview
 
